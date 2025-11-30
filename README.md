@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <i> Moscow ML-engineer student </i>
+  <i> ML-engineer student </i>
 </div>
 
 <div>
@@ -12,10 +12,12 @@
 
 <div>
   <i>
-    
+
+    Location: Moscow, RU
     Language: Russian & English language
     OS-s: Windows & MacOS Tahoe
     Hobbies: Gaming & Gym
+    Love coding so fking much
     
   </i>
 </div>
