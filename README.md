@@ -16,7 +16,6 @@
 </div>
 
 <div>
-  <i>
 
     Location: Moscow, RU
     Language: Russian & English
@@ -24,7 +23,6 @@
     Hobbies: Gaming & Gym
     Love coding so fking much
     
-  </i>
 </div>
 
 <div>
