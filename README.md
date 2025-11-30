@@ -59,5 +59,5 @@
 
 <div align="center">
   <br><br>
-  <img src="https://github.com/zxcfrost1k/zxcfrost1k/blob/main/forGit.gif?raw=true"/>
+  <img src="https://github.com/zxcfrost1k/zxcfrost1k/blob/main/forGit.gif?raw=true" height="350"/>
 </div>
