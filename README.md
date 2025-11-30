@@ -19,7 +19,7 @@
   <i>
 
     Location: Moscow, RU
-    Language: Russian & English language
+    Language: Russian & English
     OS-s: Windows & MacOS Tahoe
     Hobbies: Gaming & Gym
     Love coding so fking much
