@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1>
+  <mark> Vladislav 19 yo </mark>
+</h1>
 
-<!--
-**zxcfrost1k/zxcfrost1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <i> Moscow ML-engineer student </i>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <b><i> About me: </i></b>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <i>
+    
+    Language: Russian & English language
+    OS-s: Windows & MacOS Tahoe
+    Hobbies: Gaming & Gym
+    
+  </i>
+</div>
+
+<div>
+  <b><i> Hard skills: </i></b>
+</div>
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" height="50" width="50"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Light.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Light.svg" height="50" width="50"/>
+</div>
+
+<div>
+  <b><i> Another skills: </i></b>
+</div>
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" height="50" width="50"/>
+</div>
+
+<div align="center">
+  <br><br>
+</div>
