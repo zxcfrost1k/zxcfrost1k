@@ -1,3 +1,7 @@
+<head>
+  <meta charset="utf-8">
+</head>
+
 <h1>
   <mark> Vladislav 19 yo </mark>
 </h1>
@@ -7,6 +11,7 @@
 </div>
 
 <div>
+  <br>
   <b><i> About me: </i></b>
 </div>
 
@@ -58,6 +63,6 @@
 </div>
 
 <div align="center">
-  <br><br>
-  <img src="https://github.com/zxcfrost1k/zxcfrost1k/blob/main/forGit.gif?raw=true" height="350"/>
+  <br>
+  <img src="https://github.com/zxcfrost1k/zxcfrost1k/blob/main/forGit.gif?raw=true" height="350" class="round"/>
 </div>
