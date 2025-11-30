@@ -20,7 +20,7 @@
 
     Location: Moscow, RU
     Language: Russian & English
-    OS-s: Windows & MacOS Tahoe
+    OS-s: Windows & MacOS Tahoe Apple Silicon
     Hobbies: Gaming & Gym
     Love coding so fking much
     
