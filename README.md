@@ -34,17 +34,19 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Light.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Light.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="50" width="50"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" height="50" width="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" width="50"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" height="50" width="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Light.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Light.svg" height="50" width="50"/>
-  &nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/QT-Light.svg" height="50" width="50"/>
@@ -53,7 +55,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gradle-Light.svg" height="50" width="50"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Light.svg" height="50" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Light.svg" height="50" width="50"/>
