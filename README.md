@@ -10,10 +10,9 @@
   <i> ML-engineer student </i>
 </div>
 
-<div>
-  <br>
-  <b><i> About me: </i></b>
-</div>
+<h2>
+  About me:
+</h2>
 
 <div>
 
@@ -25,9 +24,9 @@
     
 </div>
 
-<div>
-  <b><i> Hard skills: </i></b>
-</div>
+<h2>
+  Hard skills:
+</h2>
 
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg" height="50" width="50"/>
@@ -63,9 +62,9 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Light.svg" height="50" width="50"/>
 </div>
 
-<div>
-  <b><i> Another skills: </i></b>
-</div>
+<h2>
+  Another skills:
+</h2>
 
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" height="50" width="50"/>
